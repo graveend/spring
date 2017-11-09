@@ -6,6 +6,7 @@ import java.util.List;
 import junit.framework.TestCase;
 import spring.domain.Product;
 
+//
 public class ProductManagerTest extends TestCase
 {
 	private ProductManager productManager;
